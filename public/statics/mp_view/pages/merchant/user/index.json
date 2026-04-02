@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "uni-badge": "/uni_modules/uni-badge/components/uni-badge/uni-badge",
+    "nav-bar": "/components/NavBar",
+    "count-down": "/components/countDown/index",
+    "tab-bar": "/pages/merchant/components/tabBar/index"
+  }
+}

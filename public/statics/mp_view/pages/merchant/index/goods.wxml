@@ -1,0 +1,1 @@
+<view><block wx:if="{{level==2}}"><template3 vue-id="4579054a-1" level="{{level}}" bind:__l="__l"></template3></block><block wx:else><template2 vue-id="4579054a-2" level="{{level}}" bind:__l="__l"></template2></block><tab-bar vue-id="4579054a-3" bind:__l="__l"></tab-bar></view>

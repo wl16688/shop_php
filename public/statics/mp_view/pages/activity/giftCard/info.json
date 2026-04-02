@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "礼品卡详情",
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "usingComponents": {
+    "uni-popup": "/uni_modules/uni-popup/components/uni-popup/uni-popup"
+  }
+}

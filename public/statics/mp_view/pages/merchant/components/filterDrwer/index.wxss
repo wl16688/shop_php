@@ -1,0 +1,1 @@
+.drawer_box{width:668rpx;border-radius:40rpx 0 0 40rpx;overflow:auto}.box_gap{grid-row-gap:24rpx;grid-column-gap:26rpx}.con_border{border:1rpx solid #2d8cf0}.active{border:1px solid #2d8cf0;color:#2d8cf0;background:rgba(45,140,240,.1)}.text-mer{color:#2d8cf0}

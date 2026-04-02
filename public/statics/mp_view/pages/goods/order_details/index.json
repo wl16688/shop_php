@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "订单详情",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "invoice-picker": "/pages/goods/components/invoicePicker/index",
+    "verify-modal": "/pages/goods/components/verifyModal/index",
+    "gift-drawer": "/pages/goods/components/giftDrawer/index",
+    "tui-modal": "/components/tui-modal/index",
+    "nav-bar": "/components/NavBar",
+    "gift-modal": "/pages/goods/components/sendGiftPoster/index",
+    "send-gift-mark-card": "/pages/goods/components/sendGiftMarkCard/index"
+  }
+}

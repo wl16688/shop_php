@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "easy-loadimage": "/components/easy-loadimage/easy-loadimage",
+    "recommend": "/components/recommend/index",
+    "waterfalls-flow": "/components/WaterfallsFlow/WaterfallsFlow",
+    "filter-drawer": "/pages/merchant/components/filterDrwer/index",
+    "empty-page": "/components/emptyPage",
+    "tab-bar": "/pages/merchant/components/tabBar/index"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "verify": "/pages/merchant/components/verify/verify",
+    "tui-modal": "/components/tui-modal/index",
+    "area-window": "/components/areaWindow/index"
+  }
+}

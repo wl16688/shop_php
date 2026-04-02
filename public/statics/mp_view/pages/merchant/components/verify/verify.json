@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "verify-slide": "/pages/merchant/components/verify/verifySlider/verifySlider",
+    "verify-point": "/pages/merchant/components/verify/verifyPoint/verifyPoint"
+  }
+}

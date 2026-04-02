@@ -1,0 +1,1 @@
+.form-card uni-button[disabled]{background:#ccc;color:#fff}.container{height:100vh;background:#ffeed8}.bg-card{height:648rpx;background-size:100% 648rpx;background-repeat:no-repeat}.form-card{width:670rpx;height:532rpx;position:fixed;top:392rpx;left:42rpx;z-index:10;padding:40rpx 40rpx 60rpx}.bg-btn{background:linear-gradient(90deg,#ff7931,#e93323)}

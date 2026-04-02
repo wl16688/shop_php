@@ -1,0 +1,1 @@
+.activity-popup .wx-swiper-dot ~ .wx-swiper-dot{width:10rpx;height:10rpx}

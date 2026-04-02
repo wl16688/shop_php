@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "template2": "/pages/merchant/index/template/template2",
+    "template3": "/pages/merchant/index/template/template3",
+    "tab-bar": "/pages/merchant/components/tabBar/index"
+  }
+}

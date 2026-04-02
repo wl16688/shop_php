@@ -1,0 +1,3 @@
+<temlate>
+	<view></view>
+</temlate>

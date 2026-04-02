@@ -1,0 +1,1 @@
+.sku-item{height:56rpx;line-height:56rpx;border:1px solid #f2f2f2;font-size:24rpx;color:#333;padding:0 44rpx;border-radius:28rpx;margin:24rpx 0 0 16rpx;background-color:#f2f2f2;word-break:break-all}.active{color:#2d8cf0;background:rgba(45,140,240,.1);border-color:#2d8cf0}.pb-box{padding-bottom:calc(20rpx + env(safe-area-inset-bottom))}.bg-gray{background-color:#ccc}
