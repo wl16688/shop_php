@@ -1625,7 +1625,7 @@ Route::group('adminapi', function () {
         //获取商品规格
         Route::get('product/attrs/:id/:type', 'v1.product.StoreProduct/get_attrs')->option(['real_name' => '获取商品规格']);
         //商品列表头部数据
-        Route::get('product/status_statistics', 'v1.product.StoreProduct/status_statistics')->option(['real_name' => '商品列表头部数据']);
+        Route::get('product/type_header', 'v1.product.StoreProduct/type_header')->option(['real_name' => '商品列表头部数据']);
         //商品放入回收站
         Route::delete('product/:id', 'v1.product.StoreProduct/delete')->option(['real_name' => '商品放入回收站']);
         //删除回收站商品

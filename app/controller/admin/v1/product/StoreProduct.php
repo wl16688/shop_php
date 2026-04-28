@@ -40,13 +40,10 @@ class StoreProduct extends AuthController
     protected StoreProductServices $service;
 
     /**
-     * 获取商品头部统计数据
+     * 显示资源列表头部
      * @return mixed
-     * @throws \think\db\exception\DataNotFoundException
-     * @throws \think\db\exception\DbException
-     * @throws \think\db\exception\ModelNotFoundException
      */
-    public function status_statistics()
+    public function type_header()
     {
         $where = $this->request->getMore([
             ['field_key', ''],//商品搜索类型,商品id:product_id;名称:store_name;关键字:keyword
