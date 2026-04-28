@@ -14,7 +14,7 @@ import request from '@/plugins/request';
  * */
 export function getGoodHeade(data) {
   return request({
-    url: 'product/product/type_header',
+    url: 'product/product/status_statistics',
     method: 'get',
     params: data
   });
